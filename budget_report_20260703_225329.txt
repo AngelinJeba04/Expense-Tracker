@@ -1,0 +1,6 @@
+Budget Report
+========================================
+Budget: INR 500.00
+Current month spend: INR 250.00
+Remaining: INR 250.00
+Status: Within Budget

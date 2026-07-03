@@ -1,0 +1,18 @@
+Overall Statistics
+========================================
+Total spending: INR 250.00
+Average expense: INR 250.00
+Highest expense: EXP-000001 (Lunch) - INR 250.00
+Lowest expense: EXP-000001 (Lunch) - INR 250.00
+
+Daily Spending Summary
+----------------------------------------
+2026-07-03: INR 250.00
+
+Weekly Spending Summary
+----------------------------------------
+2026-W27: INR 250.00
+
+Monthly Spending Summary
+----------------------------------------
+2026-07: INR 250.00

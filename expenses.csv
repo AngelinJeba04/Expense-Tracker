@@ -1,0 +1,3 @@
+expense_id,date,category,description,amount,payment_method,notes
+EXP-000001,2026-07-03,Food,Lunch Updated,300.00,UPI,Updated note
+EXP-000002,2026-07-03,Food,Lunch,250.00,UPI,Office commute

@@ -1,0 +1,11 @@
+[
+  {
+    "expense_id": "EXP-000001",
+    "date": "2026-07-03",
+    "category": "Food",
+    "description": "Lunch",
+    "amount": "250.00",
+    "payment_method": "UPI",
+    "notes": "Office commute"
+  }
+]
